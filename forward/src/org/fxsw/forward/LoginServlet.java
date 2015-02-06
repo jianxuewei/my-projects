@@ -3,6 +3,7 @@ package org.fxsw.forward;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -34,7 +35,16 @@ public class LoginServlet extends HttpServlet {
 		         out.println("<HTML>");
 		         out.println("  <HEAD><TITLE>A Servlet</TITLE></HEAD>");
 		         out.println("  <BODY>");
-		         out.print("    This is "+request.getParameter("name"));
+		         
+		         if(request.getParameter("name").equals("jian"))
+		         {
+		        	 System.out.println("hello,jian");
+		        	 request.setAttribute("username", "jianxuewei");
+		        	 RequestDispatcher rd=request.getRequestDispatcher("/success.do");
+		        	 rd.forward(request, response);
+		         }
+		         
+		         	 out.print("    This is "+request.getParameter("name"));
 		         
 		         out.println(", using the GET method");
 		         out.println("  </BODY>");
