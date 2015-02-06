@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genuitec</title>
+	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.genuitec.com</link>
+	<description>The Cloud Control Company</description>
+	<lastBuildDate>Fri, 06 Feb 2015 14:51:35 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0</generator>
+	<item>
+		<title>Back from OOP Konferenz!</title>
+		<link>https://www.genuitec.com/back-from-oop-konferenz/</link>
+		<comments>https://www.genuitec.com/back-from-oop-konferenz/#comments</comments>
+		<pubDate>Thu, 05 Feb 2015 21:23:57 +0000</pubDate>
+		<dc:creator><![CDATA[melinda]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[OOP]]></category>
+		<category><![CDATA[SDC]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=28325</guid>
+		<description><![CDATA[Not able to make it to Munich last month for the OOP Konferenz? Well, don&#8217;t worry &#8211; we recorded our presentation so you can still learn how Genuitec&#8217;s Secure Delivery Center helps keep development teams running smoothly by breaking down the challenges of on-ramping and team disruptions. At the booth, Emanuel Darlea and Anabella Watson spent lots of time &#8230; <a class="readmore" href="https://www.genuitec.com/back-from-oop-konferenz/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/back-from-oop-konferenz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Using Custom PhoneGap Mobile Project Templates</title>
+		<link>https://www.genuitec.com/custom-phonegap-templates/</link>
+		<comments>https://www.genuitec.com/custom-phonegap-templates/#comments</comments>
+		<pubDate>Thu, 05 Feb 2015 15:25:15 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[mobile development]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[PhoneGap templates]]></category>
+		<category><![CDATA[project templates]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=28243</guid>
+		<description><![CDATA[MyEclipse 2015 has some great versatility features. One of my favorite features is the ability to create custom reusable project templates from your PhoneGap projects. A PhoneGap project User Template can be used to create new projects with similar structure, features, web frameworks and JavaScript libraries.Project templates save time with project provisioning and setup. For &#8230; <a class="readmore" href="https://www.genuitec.com/custom-phonegap-templates/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/custom-phonegap-templates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get to Know MyEclipse 2015 in a Live Webinar</title>
+		<link>https://www.genuitec.com/myeclipse-2015-webinar/</link>
+		<comments>https://www.genuitec.com/myeclipse-2015-webinar/#comments</comments>
+		<pubDate>Tue, 03 Feb 2015 15:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Eclipse Java]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Java EE development]]></category>
+		<category><![CDATA[software development]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27853</guid>
+		<description><![CDATA[In partnership with EVGET Software Solutions, MyEclipse 2015 will be formally introduced to developers in China during a Webinar on February 5. But, of course, we don&#8217;t want to stop there. We will also hold a Webinar in the States to show off some of the great new web, mobile and user-friendly features of MyEclipse 2015. Both Brian Fernandes, MyEclipse &#8230; <a class="readmore" href="https://www.genuitec.com/myeclipse-2015-webinar/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/myeclipse-2015-webinar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Upcoming Genuitec Events</title>
+		<link>https://www.genuitec.com/upcoming-genuitec-events/</link>
+		<comments>https://www.genuitec.com/upcoming-genuitec-events/#comments</comments>
+		<pubDate>Mon, 02 Feb 2015 21:26:46 +0000</pubDate>
+		<dc:creator><![CDATA[melinda]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Genuitec Events]]></category>
+		<category><![CDATA[Genuitec News]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27999</guid>
+		<description><![CDATA[From Twitter Chats, to Conferences and Webinars, we certainly keep Bob busy! Check out all of the latest happenings:Thursday, February 5th, 2015, 3pm Beijing Standard Time: What: MyEclipse 2015 Webinar, In partnership with Evget Software SolutionsWhere: Hosted in China, stay tuned for the US date and timeTuesday, February 10th, 2015,  9am US/Central: What: Webinar: Get to Know MyEclipse 2015: The IDE Built &#8230; <a class="readmore" href="https://www.genuitec.com/upcoming-genuitec-events/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/upcoming-genuitec-events/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Latest SDC Certified Popular Pack Available for Download</title>
+		<link>https://www.genuitec.com/jan2015-popular-pack/</link>
+		<comments>https://www.genuitec.com/jan2015-popular-pack/#comments</comments>
+		<pubDate>Fri, 30 Jan 2015 13:53:47 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<category><![CDATA[certified popular pack]]></category>
+		<category><![CDATA[eclipse plugins]]></category>
+		<category><![CDATA[SDC]]></category>
+		<category><![CDATA[software packs]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27848</guid>
+		<description><![CDATA[Be sure your Secure Delivery Center Eclipse plugins are up to date. The January 2015 Certified Popular Pack is available now for download.Get your new pack by clicking the installing packs link on the Admin Console Dashboard. Then, simply click the Install button beside the new Certified Eclipse Plugin Pack 2015 January.Here are the highlights of the pack &#8230; <a class="readmore" href="https://www.genuitec.com/jan2015-popular-pack/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/jan2015-popular-pack/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bob Takes on Twitter (Again): #GenuitecChat</title>
+		<link>https://www.genuitec.com/gapdebug-genuitecchat/</link>
+		<comments>https://www.genuitec.com/gapdebug-genuitecchat/#comments</comments>
+		<pubDate>Thu, 29 Jan 2015 13:50:17 +0000</pubDate>
+		<dc:creator><![CDATA[melinda]]></dc:creator>
+				<category><![CDATA[GapDebug]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[#GenuitecChat]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[cordova]]></category>
+		<category><![CDATA[debugging]]></category>
+		<category><![CDATA[gapdebug]]></category>
+		<category><![CDATA[mobile app debugging]]></category>
+		<category><![CDATA[mobile development]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[Twitter Chat]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27801</guid>
+		<description><![CDATA[Did you miss last week&#8217;s first ever Genuitec Twitter Chat, #genuitecchat? Well, never fear, Bob has plenty to talk about!  Wednesday, Feb. 4th, 9 am US/Central / 4pm Germany/CET he&#8217;ll be at it again, this time discussing GapDebug.Bob and our lead developers will be online ready to answer your most burning questions about debugging with GapDebug &#8230; <a class="readmore" href="https://www.genuitec.com/gapdebug-genuitecchat/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-genuitecchat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cool iOS Gadgets in GapDebug 2015 Update 1</title>
+		<link>https://www.genuitec.com/gapdebug-2015-u1/</link>
+		<comments>https://www.genuitec.com/gapdebug-2015-u1/#comments</comments>
+		<pubDate>Thu, 22 Jan 2015 20:08:33 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[GapDebug]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apache Cordova]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[Chrome Dev Tools]]></category>
+		<category><![CDATA[cordova]]></category>
+		<category><![CDATA[debug PhoneGap]]></category>
+		<category><![CDATA[gapdebug]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27468</guid>
+		<description><![CDATA[Today, we release GapDebug 2015 Update 1.0! In the early access version of this release, iOS debugging got a new look with an updated iOS inspector tool. Those updates included improvements in the DOM inspector, CSS style inspector and timeline and profile tools. We want to tell you about some of the cool debugging you can do &#8230; <a class="readmore" href="https://www.genuitec.com/gapdebug-2015-u1/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/gapdebug-2015-u1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PhoneGap Build Supports New App Store Requirements</title>
+		<link>https://www.genuitec.com/pgbuild-64bit/</link>
+		<comments>https://www.genuitec.com/pgbuild-64bit/#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 16:29:51 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[hybrid mobile]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[mobile development]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[PhoneGap Build]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27461</guid>
+		<description><![CDATA[We are pleased to let you know that PhoneGap Build service announced yesterday (Jan. 20, 2015) that support for 64-bit app builds is now in place. This announcement comes before Apple&#8217;s February 1, 2015 deadline, by which Apple requires new apps to be built with the iOS SDK and include 64-bit support.Apps built using PhoneGap &#8230; <a class="readmore" href="https://www.genuitec.com/pgbuild-64bit/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/pgbuild-64bit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New iOS App Store Requirements Start Feb. 1 &#8211; Are You Ready?</title>
+		<link>https://www.genuitec.com/feb-ios-req/</link>
+		<comments>https://www.genuitec.com/feb-ios-req/#comments</comments>
+		<pubDate>Tue, 20 Jan 2015 15:31:46 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[hybrid mobile]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[mobile development]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[PhoneGap Build]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27438</guid>
+		<description><![CDATA[Several months ago Apple announced new requirements for apps submitted to the iTunes App Store. Beginning February 1, 2015, Apple requires new apps to be built with the iOS SDK and include 64-bit support. <a class="readmore" href="https://www.genuitec.com/feb-ios-req/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/feb-ios-req/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MyEclipse 2015 1.0 (GA) Arrives!</title>
+		<link>https://www.genuitec.com/2015ga-myeclipse/</link>
+		<comments>https://www.genuitec.com/2015ga-myeclipse/#comments</comments>
+		<pubDate>Fri, 16 Jan 2015 05:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Eclipse Java]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=26873</guid>
+		<description><![CDATA[The MyEclipse team starts the new year off with the GA production release of MyEclipse 2015 1.0 (a.k.a Stable 1.0)! A lot of work has been put into this release, which is overflowing with opportunities to help you be more productive.A sampling of what&#8217;s new in MyEclipse 2015:Better support for JavaScript and technology modules such as AngularJSBrand new &#8230; <a class="readmore" href="https://www.genuitec.com/2015ga-myeclipse/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/2015ga-myeclipse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bob Takes on Twitter: #GenuitecChat</title>
+		<link>https://www.genuitec.com/twitter-genuitecchat/</link>
+		<comments>https://www.genuitec.com/twitter-genuitecchat/#comments</comments>
+		<pubDate>Thu, 15 Jan 2015 17:33:03 +0000</pubDate>
+		<dc:creator><![CDATA[melinda]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[#GenuitecChat]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Eclipse Java]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[Twitter Chat]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27310</guid>
+		<description><![CDATA[Are you on Twitter? Bob is and he’s super excited to be participating in his (and Genuitec’s) first ever Twitter Chat Wednesday, Jan. 21st, 9 am US/Central / 4pm Germany/CET. #GenuitecChatWith the release of MyEclipse 2015 are you curious about:Why JavaScript code assist is now improved with MyEclipse 2015?Why move to PhoneGap Build within MyEclipse &#8230; <a class="readmore" href="https://www.genuitec.com/twitter-genuitecchat/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/twitter-genuitecchat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Go Hybrid for Mobile Apps?</title>
+		<link>https://www.genuitec.com/hybrid-or-native/</link>
+		<comments>https://www.genuitec.com/hybrid-or-native/#comments</comments>
+		<pubDate>Thu, 15 Jan 2015 15:12:20 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[hybrid mobile]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[mobile development]]></category>
+		<category><![CDATA[native app]]></category>
+		<category><![CDATA[PhoneGap]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27146</guid>
+		<description><![CDATA[What is a hybrid app? Hybrid apps are a combination of JavaScript, CSS and HTML compiled inside a wrapper like PhoneGap that allows these files to run directly on a device. While there are some downsides to using hybrid apps compared to native coding apps, the downsides are becoming less and less as technologies advance. Frameworks &#8230; <a class="readmore" href="https://www.genuitec.com/hybrid-or-native/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/hybrid-or-native/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lookout OOP KONFERENZ, Here Comes Bob!</title>
+		<link>https://www.genuitec.com/lookout-oop-konferenz/</link>
+		<comments>https://www.genuitec.com/lookout-oop-konferenz/#comments</comments>
+		<pubDate>Tue, 13 Jan 2015 19:16:47 +0000</pubDate>
+		<dc:creator><![CDATA[melinda]]></dc:creator>
+				<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Secure Delivery Center]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Eclipse Foundation]]></category>
+		<category><![CDATA[Eclipse Java]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[open source management]]></category>
+		<category><![CDATA[SDC]]></category>
+		<category><![CDATA[Software Delivery]]></category>
+		<category><![CDATA[software distribution]]></category>
+		<category><![CDATA[software management]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27183</guid>
+		<description><![CDATA[As we celebrate our recent partnership with EVGET Software Solutions for the distribution of genuine MyEclipse in China, and the upcoming MyEclipse 2015 release, Bob is packing his bags and gearing up for the 2015 OOP Konferenz in Munich Germany Jan. 27-29!Join Bob and two of Genuitec’s team members, Emanuel Darlea and Anabella Watson, at &#8230; <a class="readmore" href="https://www.genuitec.com/lookout-oop-konferenz/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/lookout-oop-konferenz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Open-source. Free, or not so free?</title>
+		<link>https://www.genuitec.com/opensource-tco/</link>
+		<comments>https://www.genuitec.com/opensource-tco/#comments</comments>
+		<pubDate>Fri, 09 Jan 2015 13:20:58 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Eclipse Foundation]]></category>
+		<category><![CDATA[Eclipse Java]]></category>
+		<category><![CDATA[Eclipse open source]]></category>
+		<category><![CDATA[open source]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=26610</guid>
+		<description><![CDATA[When selecting software that’s key to your business, the open-source option often looks like a no-brainer solution. No up front costs. Download and go. But for something that’s integral to the financial success of your business, make sure you resist the initial desire to go the &#8220;free&#8221; route and really investigate the more subtle costs &#8230; <a class="readmore" href="https://www.genuitec.com/opensource-tco/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/opensource-tco/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MyEclipse Makes its Way to China</title>
+		<link>https://www.genuitec.com/myeclipse-china/</link>
+		<comments>https://www.genuitec.com/myeclipse-china/#comments</comments>
+		<pubDate>Tue, 06 Jan 2015 19:30:18 +0000</pubDate>
+		<dc:creator><![CDATA[Lara Strain]]></dc:creator>
+				<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[software development]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=27067</guid>
+		<description><![CDATA[Genuitec is proud to announce a great partnership with EVGET Software Solutions to provide genuine MyEclipse software to our large user base in China. Together with EVGET, we have set up a new website and distribution hub that gives our friends in China a local resource for purchasing and downloading MyEclipse software. To celebrate, EVGET is offering a discounted price for those in &#8230; <a class="readmore" href="https://www.genuitec.com/myeclipse-china/">Read More</a>]]></description>
+		<wfw:commentRss>https://www.genuitec.com/myeclipse-china/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 22/35 queries in 0.022 seconds using disk
+Content Delivery Network via resources.cloud.genuitec.com
+
+ Served from: www.genuitec.com @ 2015-02-06 09:51:47 by W3 Total Cache -->
