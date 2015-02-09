@@ -1,13 +1,17 @@
 package org.fxsw.forward;
 
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Properties;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import org.apache.tomcat.jni.File;
 
 /**
  * Servlet implementation class RegisterServlet
@@ -28,7 +32,7 @@ public class RegisterServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.setContentType("text/html;charset=gbk");
+		/*response.setContentType("text/html;charset=gbk");
 		
 		PrintWriter out = response.getWriter();
 		out.println("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">");
@@ -44,12 +48,24 @@ public class RegisterServlet extends HttpServlet {
 		
 		System.out.println(request.getParameter("sex"));
 		out.print(" ƒÍ¡‰ «"+Integer.parseInt(request.getParameter("age"))+"<br/>");
-		/*out.print(this.getClass());
-		out.println(", using the GET method");*/
+		out.print(this.getClass());
+		out.println(", using the GET method");
 		out.println("  </BODY>");
 		out.println("</HTML>");
 		out.flush();
-		out.close();
+		out.close();*/
+		Properties pro=new Properties();
+		pro.setProperty("loginname", request.getParameter("name"));
+		pro.setProperty("password", request.getParameter("password"));
+		pro.setProperty("sex", new String(request.getParameter("sex").getBytes("ISO-8859-1"),"GBK"));
+		System.out.println(pro.getProperty("sex"));
+		pro.setProperty("age", request.getParameter("age"));
+		String path=this.getClass().getResource("/").toString();
+		System.out.println(path);
+		path=path.substring(path.indexOf("/")+1);
+		System.out.println(path);
+		pro.store(new FileOutputStream(path+"user.properties"), "");
+		response.sendRedirect("login.html");
 	}
 
 	/**
