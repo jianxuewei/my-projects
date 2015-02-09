@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course>
+		<name>java</name>
+		<time>5</time>
+		<describe>java 编程</describe>
+	</course>
+	<course>
+		<name>net</name>
+		<time>5</time>
+		<describe>net 编程</describe>
+	</course>
+</courses>

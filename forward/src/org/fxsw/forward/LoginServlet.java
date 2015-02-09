@@ -16,6 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.apache.catalina.Group;
 import org.apache.catalina.Role;
 import org.apache.catalina.UserDatabase;
+import org.apache.catalina.valves.rewrite.RewriteValve;
 import org.fxsw.vo.User;
 
 /**
@@ -79,10 +80,12 @@ public class LoginServlet extends HttpServlet {
 		if(loginname.equals(pro.getProperty("loginname"))&&password.equals(pro.getProperty("password"))){
 			
 			User user=new User(loginname,password,pro.getProperty("sex") ,Integer.parseInt(pro.getProperty("age")) );
+			request.setAttribute("user", user);
+			request.getRequestDispatcher("/book.do").forward(request, response);
 			
-			out.print("    登录成功 ");
+			/*out.print("    登录成功 ");
 			out.print("<br/>");
-			out.println("<a href=course.do>跳转</a>");
+			out.println("<a href=course.do>跳转</a>");*/
 			
 		}else {
 			out.println("error");
