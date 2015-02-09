@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="GBK"?>
 <courses>
 	<course>
 		<name>java</name>
 		<time>5</time>
-		<describe>java ç¼–ç¨‹</describe>
+		<describe>java ±à³Ì</describe>
 	</course>
 	<course>
 		<name>net</name>
 		<time>5</time>
-		<describe>net ç¼–ç¨‹</describe>
+		<describe>net ±à³Ì</describe>
 	</course>
 </courses>
