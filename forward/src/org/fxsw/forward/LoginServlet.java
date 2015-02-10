@@ -39,28 +39,7 @@ public class LoginServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doPost(request, response);
-		/*response.setContentType("text/html");
-		         PrintWriter out = response.getWriter();
-		         out.println("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">");
-		         out.println("<HTML>");
-		         out.println("  <HEAD><TITLE>A Servlet</TITLE></HEAD>");
-		         out.println("  <BODY>");
-		         
-		         if(request.getParameter("name").equals("jian"))
-		         {
-		        	 System.out.println("hello,jian");
-		        	 request.setAttribute("username", "jianxuewei");
-		        	 RequestDispatcher rd=request.getRequestDispatcher("/success.do");
-		        	 rd.forward(request, response);
-		         }
-		         
-		         	 out.print("    This is "+request.getParameter("name"));
-		         
-		         out.println(", using the GET method");
-		         out.println("  </BODY>");
-		         out.println("</HTML>");
-		         out.flush();
-		         out.close();*/
+		
 	}
 
 	/**
@@ -70,7 +49,12 @@ public class LoginServlet extends HttpServlet {
 		String loginname=request.getParameter("name");
 		String password=request.getParameter("password");
 		Properties pro=new Properties();
-		pro.load(this.getClass().getResourceAsStream("/user.properties"));
+		try {
+			pro.load(this.getClass().getResourceAsStream("/user.properties"));
+		} catch (Exception e) {
+			System.out.println("load error");
+		}
+		
 		response.setContentType("text/html;charset=GBK");
 			PrintWriter out = response.getWriter();
 			out.println("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">");
@@ -83,9 +67,6 @@ public class LoginServlet extends HttpServlet {
 			request.setAttribute("user", user);
 			request.getRequestDispatcher("/book.do").forward(request, response);
 			
-			/*out.print("    µÇÂ¼³É¹¦ ");
-			out.print("<br/>");
-			out.println("<a href=course.do>Ìø×ª</a>");*/
 			
 		}else {
 			out.println("error");
